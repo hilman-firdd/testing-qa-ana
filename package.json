@@ -1,0 +1,23 @@
+{
+  "name": "ana-online-testing",
+  "version": "1.0.0",
+  "description": "testing ana online",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilman-firdd/testing-qa-ana.git"
+  },
+  "author": "Hilman Firdaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilman-firdd/testing-qa-ana/issues"
+  },
+  "homepage": "https://github.com/hilman-firdd/testing-qa-ana#readme"
+}
