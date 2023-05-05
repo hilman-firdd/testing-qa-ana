@@ -6,6 +6,6 @@ workflows:
   build:
     jobs:
       - cypress/run:
-          store_artifacts:
-              destination: artifact-file
-              path: /tmp/artifacts
+          store_artifacts: true
+          destination: artifact-file
+          path: /tmp/artifacts
